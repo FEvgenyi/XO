@@ -1,0 +1,98 @@
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.csproj.AssemblyReference.cache
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.Form1.resources
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.csproj.GenerateResource.cache
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.GeneratedMSBuildEditorConfig.editorconfig
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfoInputs.cache
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfo.cs
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.csproj.CoreCompileInputs.cache
+D:\My documents\Visuo\X_O\bin\Debug\net5.0-windows\X_O.exe
+D:\My documents\Visuo\X_O\bin\Debug\net5.0-windows\X_O.deps.json
+D:\My documents\Visuo\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.json
+D:\My documents\Visuo\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.dev.json
+D:\My documents\Visuo\X_O\bin\Debug\net5.0-windows\X_O.dll
+D:\My documents\Visuo\X_O\bin\Debug\net5.0-windows\ref\X_O.dll
+D:\My documents\Visuo\X_O\bin\Debug\net5.0-windows\X_O.pdb
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.dll
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\ref\X_O.dll
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.pdb
+D:\My documents\Visuo\X_O\obj\Debug\net5.0-windows\X_O.genruntimeconfig.cache
+D:\С#\X_O\bin\Debug\net5.0-windows\X_O.exe
+D:\С#\X_O\bin\Debug\net5.0-windows\X_O.deps.json
+D:\С#\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.json
+D:\С#\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.dev.json
+D:\С#\X_O\bin\Debug\net5.0-windows\X_O.dll
+D:\С#\X_O\bin\Debug\net5.0-windows\ref\X_O.dll
+D:\С#\X_O\bin\Debug\net5.0-windows\X_O.pdb
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.csproj.AssemblyReference.cache
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.Form1.resources
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.csproj.GenerateResource.cache
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfoInputs.cache
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfo.cs
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.csproj.CoreCompileInputs.cache
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.dll
+D:\С#\X_O\obj\Debug\net5.0-windows\ref\X_O.dll
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.pdb
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.genruntimeconfig.cache
+E:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.exe
+E:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.deps.json
+E:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.json
+E:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.dev.json
+E:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.dll
+E:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\ref\X_O.dll
+E:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.pdb
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.csproj.AssemblyReference.cache
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.Form1.resources
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.csproj.GenerateResource.cache
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.GeneratedMSBuildEditorConfig.editorconfig
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfoInputs.cache
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfo.cs
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.csproj.CoreCompileInputs.cache
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.dll
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\ref\X_O.dll
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.pdb
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.genruntimeconfig.cache
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.Form2.resources
+C:\Users\Ewgen\Desktop\X_O\bin\Debug\net5.0-windows\X_O.exe
+C:\Users\Ewgen\Desktop\X_O\bin\Debug\net5.0-windows\X_O.deps.json
+C:\Users\Ewgen\Desktop\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.json
+C:\Users\Ewgen\Desktop\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.dev.json
+C:\Users\Ewgen\Desktop\X_O\bin\Debug\net5.0-windows\X_O.dll
+C:\Users\Ewgen\Desktop\X_O\bin\Debug\net5.0-windows\ref\X_O.dll
+C:\Users\Ewgen\Desktop\X_O\bin\Debug\net5.0-windows\X_O.pdb
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.csproj.AssemblyReference.cache
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.Form1.resources
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.Form2.resources
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.csproj.GenerateResource.cache
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfoInputs.cache
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfo.cs
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.csproj.CoreCompileInputs.cache
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.dll
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\ref\X_O.dll
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.pdb
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.genruntimeconfig.cache
+C:\Users\Ewgen\Desktop\X_O\obj\Debug\net5.0-windows\X_O.Properties.Resources.resources
+I:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.exe
+I:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.deps.json
+I:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.json
+I:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.runtimeconfig.dev.json
+I:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.dll
+I:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\ref\X_O.dll
+I:\ДомашнееЗадание\X_O\bin\Debug\net5.0-windows\X_O.pdb
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.csproj.AssemblyReference.cache
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.Form1.resources
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.Form2.resources
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.Properties.Resources.resources
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.csproj.GenerateResource.cache
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.GeneratedMSBuildEditorConfig.editorconfig
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfoInputs.cache
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.AssemblyInfo.cs
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.csproj.CoreCompileInputs.cache
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.dll
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\ref\X_O.dll
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.pdb
+I:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.genruntimeconfig.cache
+E:\ДомашнееЗадание\X_O\obj\Debug\net5.0-windows\X_O.Properties.Resources.resources
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.Form2.resources
+D:\С#\X_O\obj\Debug\net5.0-windows\X_O.Properties.Resources.resources
